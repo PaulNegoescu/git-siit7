@@ -2,4 +2,4 @@
 
 ## Subtitlu
 
-Si eu as vrea sa adaug ceva pe linia asta.
+Si eu as vrea sa adaug o linie de cod.
